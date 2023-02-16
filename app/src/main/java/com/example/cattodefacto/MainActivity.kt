@@ -83,7 +83,7 @@ class MainActivity : AppCompatActivity() {
                     .into(cat)
 
             },
-            { Glide.with(this).load("https://img.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_114360-5529.jpg?w=2000").into(cat) })
+            { Glide.with(this).load("https://kinsta.com/wp-content/uploads/2017/08/502-bad-gateway-1-1024x512.png").into(cat) })
 
         queueImage.add(jsonObjectRequest)
     }
